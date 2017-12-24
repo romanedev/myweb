@@ -39,6 +39,6 @@ git log
 git remote add origin http://github.com/username/name.git
 git push -u origin master
 
-bit blue
+bit blue st
 git init
 .gitignore #gnore tmp #TODO inside file tmp/
