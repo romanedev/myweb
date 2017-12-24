@@ -33,3 +33,11 @@ git push -f #отправляем на сервер GitHub
 
 #git rm -r 	# удаление папки в локальном репозитории
 #git rm *.* 	#удаление фала в локальном репозитории
+
+git log
+git remote add origin http://github.com/username/name.git
+git push -u origin master
+
+
+git init
+.gitignore #gnore tmp #TODO inside file tmp/
